@@ -83,7 +83,7 @@ def roulette_simulation(num_spins):
     # Final status
 
     b_rolls.append(round(bankroll,2))
-    plot_array(bank_cum)
+    #plot_array(bank_cum)
     
 
 # Example usage
